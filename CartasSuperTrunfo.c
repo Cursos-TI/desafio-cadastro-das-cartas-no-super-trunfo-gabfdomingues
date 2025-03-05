@@ -1,8 +1,16 @@
 #include <stdio.h>
 
-
 int main() {
-    printf ("Desafio Trunfo!\n");
 
-    
+    printf ("Cartas Super Trunfo!");
+
+    char estado;
+    char nome da cidade;
+    int população;
+    float área;
+    float pib;
+    int numero de pontos;
+
+
+
 }
