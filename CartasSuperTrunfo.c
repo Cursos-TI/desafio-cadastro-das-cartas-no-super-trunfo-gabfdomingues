@@ -23,28 +23,28 @@ int main() {
 
     //Dados de cadastro da primeira carta
 
-    printf("Codigo da primeira carta, digite codigo carta 1:\n")
-    scanf("%s", &codigo1);
+    printf("Codigo da primeira carta, digite codigo carta 1:");
+    scanf("%s, &codigo1");
 
     printf("digite o estado da carta 1: ");
     scanf("%s, &estado1");
 
     printf("nome da cidade carta 1, ");
-    scanf("%s", &nome1);
+    scanf("%s, &nome1");
 
     printf("População carta 1:");
-    scanf("%d", &populacao)1;
+    scanf("%d, &populacao1");
 
     printf("area da carta 1:");
-    scanf("%f", &area1);
+    scanf("%f, &area1");
 
     printf("pib da carta 1:");
-    scanf("%f", &pib1);
+    scanf("%f, &pib1");
 
     print("pontos turísticos carta 1:");
-    scanf("%d" , &pontos_turisticos1);
+    scanf("%d, &pontos_turisticos1");
 
-
+return 0;
 
 
 
